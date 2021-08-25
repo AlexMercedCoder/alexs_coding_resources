@@ -5,6 +5,7 @@ title: "Alex's Coding Resources Gallery"
 
 # Alex's Coding Resources
 - [Even More Languages and Content, DevNursery.com](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbRBom0Txvg28C6EySkR6Vq)
+- [Video Playlist: Computer Science Concepts](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbfwjU1ToZlUWCinxmFqlIp)
 
 ## HTML
 - [Video: Intro to HTML Masterclass](https://www.youtube.com/watch?v=M-xorBfE_9Q&t=1208s)
@@ -83,18 +84,41 @@ title: "Alex's Coding Resources Gallery"
 
 
 #### SolidJS
+- [Video Playlist: SolidJS](https://youtube.com/playlist?list=PLY6oTPmKnKbYaQQs3p_KrDZGAuNHYWpLw)
+- [Blog: SolidJS, React meets Svelte](https://tuts.alexmercedcoder.com/2021/4/SolidJS/)
 
 #### Alipine/HTMX
+- [Video: Supercharging Server Side Templating with Alpine & HTMX](https://youtu.be/LiwcdDfnJMc)
+- [Blog: The renaissance of server side rendering with Alpine and HTMX, Reactivity with Minimal JS ](https://tuts.alexmercedcoder.com/2021/8/serverside_templating_comback/)
 
 #### StencilJS
+- [Blog: Making Framework Agnostic Web Components with StencilJS](https://tuts.alexmercedcoder.com/2020/StencilJS/)
+- [Video Playlist: StencilJS 101](https://youtube.com/playlist?list=PLY6oTPmKnKbYq0SIcJErp5EpMtjQSCHXy)
 
 #### RiotJS
+- [Video: Trying out RiotJS](https://youtu.be/ZE-hiQrvLJQ)
+- [Video: RiotJS Todo List Build](https://youtu.be/tEOqiGQ3AdE)
 
 #### Native Web Components
+- [Blog: Web Components Part 1 - The Basics](https://tuts.alexmercedcoder.com/2020/webcomp1/)
+- [Blog: Web Components Part 2 - Styling and Slots](https://tuts.alexmercedcoder.com/2020/webcomp2/)
+- [Blog: Web Components Part 3 - Lifecycle Functions](https://tuts.alexmercedcoder.com/2020/webcomp3/)
+- [Blog: Web Component Libraries](https://tuts.alexmercedcoder.com/2020/WebComponentLibs/)
+- [Blog: EZComponent: Web Component Based Framework](https://tuts.alexmercedcoder.com/2021/1/ezcomponent/)
+- [Blog: MercedUI: Web Component Based Framework](https://tuts.alexmercedcoder.com/2020/mercedui/)
+- [Blog: AMPonent: Web Component Building Library](https://tuts.alexmercedcoder.com/2020/amponenttut/)
+- [Video Playlist: Web Components](https://youtube.com/playlist?list=PLY6oTPmKnKbaNVkXHOHWxgdKEZLGKuFP9)
 
 #### lit
+- [Video: lit-element Frontend Todo Build](https://youtu.be/aYJNKNUMjZE)
+
+### Jamstack
+- [Blog: The Concepts of Jamstack 101](https://tuts.alexmercedcoder.com/2021/7/jamstack/)
 
 ## Backend 
+- [Blog: Chart of Backend Frameworks](https://tuts.alexmercedcoder.com/2021/2/2021BackendFrameworks/)
+- [Blog: Authorization and Authentication in Concept](https://tuts.alexmercedcoder.com/2020/AuthConcept/)
+- [Video: Backend Development in Concept](https://youtu.be/8kldMX8LOOk)
 
 ### Backend Frameworks
 
