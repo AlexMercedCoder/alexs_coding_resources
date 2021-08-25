@@ -7,6 +7,8 @@ title: "Alex's Coding Resources Gallery"
 
 - [Even More Languages and Content, DevNursery.com](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbRBom0Txvg28C6EySkR6Vq)
 - [Video Playlist: Computer Science Concepts](https://www.youtube.com/playlist?list=PLY6oTPmKnKbbfwjU1ToZlUWCinxmFqlIp)
+- [Blog: 10 Programming Languages side by side](https://tuts.alexmercedcoder.com/2021/6/10-Programming-Languages/)
+
 
 ## HTML
 
@@ -44,6 +46,7 @@ title: "Alex's Coding Resources Gallery"
 
 - [Video Playlist: Programmer Tools (Git, Terminal, VSCode, etc.)](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg)
 - [Deploying frontend apps to Vercel & Netlify](https://tuts.alexmercedcoder.com/2021/1/deployreact/)
+- [Blog: Ultimate Command Line Reference](https://tuts.alexmercedcoder.com/2021/2/CLIReference2021/)
 
 ## FRONTEND JAVASCRIPT
 
@@ -183,39 +186,77 @@ title: "Alex's Coding Resources Gallery"
 - [Video Playlist: Working with GraphQL](https://youtube.com/playlist?list=PLY6oTPmKnKbZ7XA4XFhxiVsg_Lu3dDKsK)
 
 ## Python
+- [Video Playlist: Learning Python](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaTvgXqNCRXcKnqbO5j2oQn)
+- [Blog: Python Virtual Environments 101 (mkvirtuenv & pyenv)](https://tuts.alexmercedcoder.com/2021/1/pythonvirtualenv/)
+- [Blog: More on Python Virtual Environments (Python venv module)](https://tuts.alexmercedcoder.com/2021/3/rivisitingpyenv/)
+- [Blog: Creating Virtual Environments with Pipenv](https://tuts.alexmercedcoder.com/2021/4/pipenv/)
 
 ### Python Frameworks
 
 #### Django
+- [Video Playlist: Python and Django](https://youtube.com/playlist?list=PLY6oTPmKnKbbwiftMy2RfwC8MpFbhngXT)
+- [Blog: Django RestAPI without DjangoRestFramework](https://tuts.alexmercedcoder.com/2021/3/puredjangoapi/)
+- [Blog: Ultimate Django Reference](https://tuts.alexmercedcoder.com/2020/djangoreference/)
 
-#### Flask & FastAPI
-
-#### Masonite
+#### Flask, FastAPI and Masonite
+- [Video Playlist: Flask, FastAPI & Masonite](https://youtube.com/playlist?list=PLY6oTPmKnKbao2ssilmG_ahnqkEzxysMs)
+- [Blog: Flask 101](https://tuts.alexmercedcoder.com/2021/5/python_flask/)
+- [Blog: Building an API in Flask & FastAPI](https://tuts.alexmercedcoder.com/2021/7/full_crud_flask_fastapi/)
+- [Blog: Working with Masonite](https://tuts.alexmercedcoder.com/2021/5/Masonite-Python-Web-Framework-101/)
 
 ## Ruby
+-[Video Playlist: Basics of Ruby](https://youtube.com/playlist?list=PLY6oTPmKnKbZp8Kh6jS5A6j-6H2kGY12e)
+-[Blog: Ruby vs. Javascript](https://tuts.alexmercedcoder.com/2020/rubyvjs/)
 
 ### Ruby Frameworks
 
 #### Ruby on Rails
+- [Video Playlist: Ruby on Rails](https://youtube.com/playlist?list=PLY6oTPmKnKbYlAqVHgzZl5lou54bizdbV)
+- [Blog: Heroku Deployment of Rails](https://tuts.alexmercedcoder.com/2020/railsdeployment/)
+- [Blog: Rails Many to Many Relationships](https://tuts.alexmercedcoder.com/2020/railsmanytomany/)
+- [Blog: Ruby on Rails Reference Sheet](https://tuts.alexmercedcoder.com/2020/Ruby%20on%20Rails/)
+- [Blog: Ruby on Rails Auth](https://tuts.alexmercedcoder.com/2020/ruby-tut/)
 
 #### Sinatra
+- [Video Playlist: Sinatra](https://youtube.com/playlist?list=PLY6oTPmKnKbZn4pi2Wma0MmqRtD9SImJj)
+- [Blog: Intro to Sinatra](https://tuts.alexmercedcoder.com/2021/6/Intro_to_ruby_sinatra/)
+- [Blog: Sinatra with Postgres](https://tuts.alexmercedcoder.com/2021/6/Using_Ruby_Sinatra_with_Postgres/)
 
 ## PHP
+- [Blog: Intro to PHP](https://tuts.alexmercedcoder.com/2021/1/introtophp/)
+- [Video Playlist: Intro to PHP](https://youtube.com/playlist?list=PLY6oTPmKnKbbLnwRkrCDhOl94iaibHwBJ)
 
 ### PHP Frameworks
 
 #### Laravel
+- [Video Playlist: PHP Laravel](https://youtube.com/playlist?list=PLY6oTPmKnKbZ5TgZKeh0uKT6d1DenRmx1)
+- [Blog: 0 to Deploy API with PHP Laravel](https://tuts.alexmercedcoder.com/2021/3/laravelhelloworld/)
 
 ## Go
+- [Video Playlist: Intro to GO](https://youtube.com/playlist?list=PLY6oTPmKnKbZbFOW6r6YulR1_9SCrdyOZ)
+- [Blog: GO 101](https://tuts.alexmercedcoder.com/2021/1/Golang101/)
 
 ### Go Frameworks
 
 #### Echo
+- [Video: Updated GO and the Echo Framework](https://www.youtube.com/watch?v=ipROsgr7wkI)
+- [Video: Go Echo with GORM and Postgres](https://www.youtube.com/watch?v=ipROsgr7wkI)
 
 #### Buffalo
+- [Blog: GO Buffalo - 0 to Deploy](https://tuts.alexmercedcoder.com/2021/3/introtogobuffalo/)
+- [Video Playlist: Go with the Buffalo Framework](https://youtube.com/playlist?list=PLY6oTPmKnKbbosLf7mDBjqxr2qBXUUBYk)
 
 ## Rust
+- [Blog: Rust 101](https://tuts.alexmercedcoder.com/2021/1/Rust101/)
+- [Video Playlist: Programming in Rust](https://www.youtube.com/playlist?list=PLY6oTPmKnKbYPkf2AhsPbq_YGh3q7p4Aj)
 
 ### Rust Frameworks
 
 #### Rocket
+- [Blog: Rust Rocket - 0 to Deploy](https://tuts.alexmercedcoder.com/2021/3/rustrocket0todeploy/)
+
+## Java & C#
+- [Video Playlist: Programming in Java](https://youtube.com/playlist?list=PLY6oTPmKnKbZtl3gTxPisijUGR3AnKw6D)
+- [Video Playlist: Programming C#](https://www.youtube.com/playlist?list=PLY6oTPmKnKbaQfi5KyW7IexlIsIKD1Oqb)
+- [Blog: .Net5 - 0 to Deploy](https://tuts.alexmercedcoder.com/2021/3/dotnet5/)
+- [Blog: Java Spring - 0 to Deploy](https://tuts.alexmercedcoder.com/2021/3/javaspring/)
